@@ -1,0 +1,1 @@
+﻿Flag|Bone|Raven|Tail|Axe|Necklace|Crystals|Amphora|Belt|Bottle|Fire\nStriker|Salver|Fish|Cage|Boar
